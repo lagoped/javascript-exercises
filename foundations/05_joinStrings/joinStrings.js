@@ -8,8 +8,15 @@
 */
 
 // Add your code right below, good luck!
+firstName = "Carlos"
+lastName = "Stevenson"
+thisYear = 1965
+birthYear = 1947
+fullName = firstName + " " + lastName 
+age = thisYear - birthYear
 
-
+greeting_tempo = "Hello! My name is " + fullName  + " and I am " + age + " years old."
+greeting = `Hello! My name is ${fullName} and I am ${age} years old.`
 
 
 
